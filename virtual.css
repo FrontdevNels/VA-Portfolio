@@ -424,9 +424,11 @@ nav {
     text-align: center;
 }
 .nav-links {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
+    gap: 10px;
 }
+
 #hero {
     flex-direction: column;
     text-align: center;
